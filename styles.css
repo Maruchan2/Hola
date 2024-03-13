@@ -1,0 +1,40 @@
+body {
+    background-color: #98ff98; /* Verde menta */
+        font-family: Arial, sans-serif;
+            margin: 0;
+                padding: 0;
+                }
+
+                .container {
+                    max-width: 800px;
+                        margin: 0 auto;
+                            padding: 20px;
+                            }
+
+                            button {
+                                padding: 10px 20px;
+                                    background-color: #4CAF50; /* Verde */
+                                        color: white;
+                                            border: none;
+                                                cursor: pointer;
+                                                    margin-right: 10px;
+                                                    }
+
+                                                    button:hover {
+                                                        background-color: #45a049; /* Verde más oscuro al pasar el ratón */
+                                                        }
+
+                                                        h2 {
+                                                            color: #333; /* Color de texto oscuro */
+                                                            }
+
+                                                            p {
+                                                                color: #555; /* Color de texto gris */
+                                                                }
+
+                                                                img {
+                                                                    max-width: 100%;
+                                                                        height: auto;
+                                                                            display: block;
+                                                                                margin-bottom: 20px;
+                                                                                }
